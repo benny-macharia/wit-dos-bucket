@@ -3,7 +3,7 @@
     "description": "AI Assistant for Windows - helps users open files and perform various tasks with natural language",
     "homepage": "https://github.com/benny-macharia/wit-dos",
     "license": "mit",
-    "url": "https://github.com/benny-macharia/wit-dos/releases/download/v0.1.0/wit-dos.exe",
+    "url": "https://github.com/benny-macharia/wit-dos/releases/download/v0.1.1/wit-dos.exe",
     "hash": "9BD53BB7A9637F5FDAAB704D0BCD99FFB1B35E73D394221BC99B4EE376BF028D",
     "bin": "wit-dos.exe",
     "checkver": "github",
