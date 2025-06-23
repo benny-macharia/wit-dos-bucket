@@ -4,7 +4,7 @@
     "homepage": "https://github.com/benny-macharia/wit-dos",
     "license": "mit",
     "url": "https://github.com/benny-macharia/wit-dos/releases/download/v0.1.1/wit-dos.exe",
-    "hash": "9BD53BB7A9637F5FDAAB704D0BCD99FFB1B35E73D394221BC99B4EE376BF028D",
+    "hash": " CB47D70EFC19812354A7E424A66772FEB561C8ABAF85EA1CAD550C69CAD7E26B",
     "bin": "wit-dos.exe",
     "checkver": "github",
     "autoupdate": {
